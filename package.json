@@ -1,0 +1,16 @@
+{
+  "name": "font-mini",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "index.js",
+  "dependencies": {
+    "font-spider": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "font-spider *.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
