@@ -9,6 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "font-spider *.html",
+    "reset": "cp -f ./.font-spider/pmzd.ttf ./pmzd.ttf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
